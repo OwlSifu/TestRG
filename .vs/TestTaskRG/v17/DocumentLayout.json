@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repository\\TestTaskRG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DDBDE1-4C30-97D7-3B5D-03C44F77242B}|Assembly-CSharp.csproj|c:\\repository\\testtaskrg\\assets\\scripts\\game\\scriptables\\cubenumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DDBDE1-4C30-97D7-3B5D-03C44F77242B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\scriptables\\cubenumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DDBDE1-4C30-97D7-3B5D-03C44F77242B}|Assembly-CSharp.csproj|C:\\Repository\\TestTaskRG\\assets\\scripts\\game\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DDBDE1-4C30-97D7-3B5D-03C44F77242B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\cubespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DDBDE1-4C30-97D7-3B5D-03C44F77242B}|Assembly-CSharp.csproj|C:\\Repository\\TestTaskRG\\assets\\scripts\\game\\cubecombiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DDBDE1-4C30-97D7-3B5D-03C44F77242B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\cubecombiner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85662B35-3DDA-4BC3-663B-813E4FDCE701}|Hierarchy2Editor.csproj|C:\\Repository\\TestTaskRG\\assets\\plugins\\hierarchy 2\\editor\\hierarchyeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85662B35-3DDA-4BC3-663B-813E4FDCE701}|Hierarchy2Editor.csproj|solutionrelative:assets\\plugins\\hierarchy 2\\editor\\hierarchyeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CubeCombiner.cs",
+              "DocumentMoniker": "C:\\Repository\\TestTaskRG\\Assets\\Scripts\\Game\\CubeCombiner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\CubeCombiner.cs",
+              "ToolTip": "C:\\Repository\\TestTaskRG\\Assets\\Scripts\\Game\\CubeCombiner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\CubeCombiner.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAjwFAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:54:10.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CubeNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Repository\\TestTaskRG\\Assets\\Scripts\\Game\\Scriptables\\CubeNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Scriptables\\CubeNumberGenerator.cs",
+              "ToolTip": "C:\\Repository\\TestTaskRG\\Assets\\Scripts\\Game\\Scriptables\\CubeNumberGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Scriptables\\CubeNumberGenerator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:39:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CubeSpawner.cs",
+              "DocumentMoniker": "C:\\Repository\\TestTaskRG\\Assets\\Scripts\\Game\\CubeSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\CubeSpawner.cs",
+              "ToolTip": "C:\\Repository\\TestTaskRG\\Assets\\Scripts\\Game\\CubeSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\CubeSpawner.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:34:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HierarchyEditor.cs",
+              "DocumentMoniker": "C:\\Repository\\TestTaskRG\\Assets\\Plugins\\Hierarchy 2\\Editor\\HierarchyEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Hierarchy 2\\Editor\\HierarchyEditor.cs",
+              "ToolTip": "C:\\Repository\\TestTaskRG\\Assets\\Plugins\\Hierarchy 2\\Editor\\HierarchyEditor.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Hierarchy 2\\Editor\\HierarchyEditor.cs",
+              "ViewState": "AQIAAEkHAAAAAAAAAADgv2AHAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:30:10.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
